@@ -13,15 +13,18 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void clickEquipe{View view} {
-        Intent tela;
-        tela = new Intent(getApplicationContext(), Equipe.class);
+    public void clickEquipe(View view) {
+        Intent tela = new Intent(getApplicationContext(), Equipe.class);
         startActivity(tela);
+    }
 
-        public void clickCursos{View view} {
-            tela = new Intent(getApplicationContext(), Cursos.class);
-            startActivity(tela);
+    public void clickCursos(View view) {
+        Intent tela = new Intent(getApplicationContext(), Cursos.class);
+        startActivity(tela);
+    }
 
-        }
+    public void clickMidia(View view) {
+        Intent tela = new Intent(getApplicationContext(), Midia.class);
+        startActivity(tela);
     }
 }

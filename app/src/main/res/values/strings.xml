@@ -5,4 +5,11 @@
     <string name="strCursos">Cursos</string>
     <string name="strMidia">Midia</string>
     <string name="strVoltar">Voltar</string>
+    <string name="strEquipeTitulo">Equipe</string>
+    <string name="strEquipeDescricao" />
+    <string name="strAllezinho">Allezinho</string>
+    <string name="strLeila">Leila</string>
+    <string name="strPedrinho">Pedrinho</string>
+    <string name="strCursosTitulo">Todos os Cursos</string>
+    A plataforma AlleArt Cursos conta com centenas de aulas divididas em varios cursos que estão sendo lançadas em módulos. A equipe conta com 3 pessoas, cada um especializado em uma área especifica.\n\n Logo, quando você recebe um curso novo e se prepara para assistir todos os vídeos, o trabalho teve a participação destas tres pessoas que listaremos a seguir:
 </resources>
